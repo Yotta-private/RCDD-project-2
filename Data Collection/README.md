@@ -6,7 +6,7 @@
     
     >>> three types data have collected 
     
-####### 245 data from zc
-####### 25 data from rcdd lab
-####### 402 data from web(Malacards, chembl, acs publication))
+######     （1）245 data from zc
+######     （2）25 data from rcdd lab
+######     （3）402 data from web(Malacards, chembl, acs publication))
 
